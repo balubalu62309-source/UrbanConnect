@@ -1,0 +1,6 @@
+{
+  "name": "UrbanConnect",
+  "description": "On-demand home services platform connecting customers with verified electricians, plumbers, carpenters, AC technicians, painters, cleaners, tutors, beauticians, appliance repair technicians, movers, and gardeners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
